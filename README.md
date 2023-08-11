@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sharathhh
-- 🌱 I’m currently learning BTech CSE ..
-- 📫 How to reach me sharathnandu321@gmail.com ...
+- 🌱 I’m currently learning BE CSE ..
+- 📫 How to reach me sharathu0123@gmail.com ...
 
 <!---
 Sharathhh/Sharathhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
