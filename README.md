@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sharathhh
-- 🌱 I’m currently learning BE CSE ..
+- 🌱 I’m a B.E graduate👨‍🎓..
 - 📫 How to reach me sharathu0123@gmail.com ...
 
 <!---
