@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">📚 I'm currently learning <br><ul><li> Advanced Docker and Kubernetes for efficient application deployment and scalability.</li>
+<h1 align="left">🚀 Learning & Growth </h1>
+<p align="left"><br><ul><li> Advanced Docker and Kubernetes for efficient application deployment and scalability.</li>
 <li>Enhancing my problem-solving skills through algorithms and data structures.</li> <li>Mastering deep learning and real-world model deployment.</li><br></p>
 
 ###
