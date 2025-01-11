@@ -15,7 +15,7 @@
 <li>Enhancing my problem-solving skills through algorithms and data structures.</li> <li>Mastering deep learning and real-world model deployment.</li><br></p>
 
 ###
-<h1>📫 Connect With Me</h1>
+<h1 align="left">📫 Connect With Me</h1>
   <ul>Email: sharathu0123@gmail.com</ul>
 ###
 
