@@ -14,14 +14,14 @@
 <p align="left"><ul><li> Advanced Docker and Kubernetes for efficient application deployment and scalability.</li>
 <li>Enhancing my problem-solving skills through algorithms and data structures.</li> <li>Mastering deep learning and real-world model deployment.</li><br></p>
 
-
+###
 <h1>📫 Connect With Me</h1>
   <ul>Email: sharathu0123@gmail.com</ul>
 ###
 
 <h2 align="left">Skills in</h2>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
