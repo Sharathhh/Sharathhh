@@ -11,9 +11,12 @@
 ###
 
 <h1 align="left">🚀 Learning & Growth </h1>
-<p align="left"><br><ul><li> Advanced Docker and Kubernetes for efficient application deployment and scalability.</li>
+<p align="left"><ul><li> Advanced Docker and Kubernetes for efficient application deployment and scalability.</li>
 <li>Enhancing my problem-solving skills through algorithms and data structures.</li> <li>Mastering deep learning and real-world model deployment.</li><br></p>
 
+
+<h1>📫 Connect With Me</h1>
+  <ul>Email: sharathu0123@gmail.com</ul>
 ###
 
 <h2 align="left">Skills in</h2>
