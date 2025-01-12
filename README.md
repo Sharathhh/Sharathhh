@@ -9,7 +9,6 @@
 <p align="left">I'm a Full-Stack Developer and Machine Learning Enthusiast passionate about crafting intelligent, scalable, and user-friendly applications. As a 22-year-old Computer Science Engineering graduate, I'm enthusiastic about solving real-world problems through clean code and creative solutions.</p>
 
 ###
-
 <h1 align="left">🚀 Learning & Growth </h1>
 <p align="left"><ul><li> Advanced Docker and Kubernetes for efficient application deployment and scalability.</li>
 <li>Enhancing my problem-solving skills through algorithms and data structures.</li> <li>Mastering deep learning and real-world model deployment.</li><br></p>
