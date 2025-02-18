@@ -38,7 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12"/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker" />
+    <img src="https://skillicons.dev/icons?i=docker" />
     
 </div>
 
