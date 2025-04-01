@@ -18,7 +18,7 @@
   <ul>Email: sharathu0123@gmail.com</ul>
   
 
-<h2 align="left">Skills in</h2>
+<h1 align="left">Skills in</h2>
 
 
 
