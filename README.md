@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4addf7af-7a60-4f87-959c-1fcdb89079cd)<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
@@ -44,10 +44,11 @@
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  /> 
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img src="   https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo-dark.svg4  " height="40" alt='langchain'  />
-  <img src="  https://registry.npmmirror.com/@lobehub/icons-static-png/1.46.0/files/dark/langchain-color.png " height="40" alt='langchain'  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  
+    <img src="https://github.com/user-attachments/assets/4addf7af-7a60-4f87-959c-1fcdb89079cd" height="40" alt="langchain"  
 
+
+    
 
   
   <img width="12"/>
