@@ -44,17 +44,10 @@
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  /> 
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  
-    <img src="https://github.com/user-attachments/assets/4addf7af-7a60-4f87-959c-1fcdb89079cd" height="40" alt="langchain"  
-
-
-    
-
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"/ > 
   <img width="12"/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,tensorflow, ts" />
-    
-</div>
+  <img src="https://github.com/user-attachments/assets/4addf7af-7a60-4f87-959c-1fcdb89079cd" height="40" alt="langchain" /> 
+  <img width="12"/>
+
 
 ###
