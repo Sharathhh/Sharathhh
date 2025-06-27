@@ -12,7 +12,7 @@
 <h1 align="left">🚀 Learning & Growth </h1>
 <p align="left"><ul><li> Advanced Docker and Kubernetes for efficient application deployment and scalability.</li>
 <li>Enhancing my problem-solving skills through algorithms and data structures.</li> <li>Mastering deep learning and real-world model deployment.</li>
-<li>Developing AI applications with langchain</li>
+<li>AI automation</li>
 
 </p>
 
